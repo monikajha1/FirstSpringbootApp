@@ -1,0 +1,12 @@
+package com.walmart.java.springbootstarter.hello;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloController {
+	
+	public String greet() {
+		return "Hi..!!";
+	}
+
+}

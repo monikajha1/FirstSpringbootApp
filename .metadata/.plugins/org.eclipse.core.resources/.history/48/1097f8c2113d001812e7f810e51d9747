@@ -1,0 +1,10 @@
+package com.walmart.java.springbootstarter;
+
+public class CourseApiApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

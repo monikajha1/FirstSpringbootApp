@@ -1,0 +1,5 @@
+package com.walmart.java.springbootstarter.topic;
+
+public class TopicController {
+
+}
